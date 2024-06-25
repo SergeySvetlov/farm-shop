@@ -1,7 +1,5 @@
 import styled from "styled-components";
 import { Swiper } from "swiper/react";
-import { Button } from "../../elements/index";
-
 
 export const SlyderSection = styled.section`
     padding: 0 0 0 20px;
